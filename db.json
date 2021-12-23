@@ -1,0 +1,41 @@
+{
+    "selectedProduct": [
+        {
+            "id": 1,
+            "name": "MOHAN",
+            "attribute": "Recycle Boucle Knit Cardigan Pink",
+            "price": 120,
+            "imgUrl": "https://s3-alpha-sig.figma.com/img/6a2d/eb3f/5dc08c8f3f72604885ea722fb8d95299?Expires=1641168000&Signature=H59Ic~e~3jZ5MlgRbjW7FVqMnVACOUwuqLF9S7hz~Hr4EDNlI5peA5B10k2To0xOAldLUjddZ7Fhn8pPYFnd0VPZRWQgPpYciTCIz3UuecrdygjeUn-lHh-Hn75ESUEBOvJsJ9QH5EfzVlnKm4LOXXqTu0J6VVe7aoBJqpfgKoKkle5BPWMAj6~pbMBJNkAq2nJLIPQJ8ROiBs7~TZM2mpFcbvZL5Y46kjQvI7acWvW0XtdY5q7pAXO25qqWL2I7tY5jolGC~vnCUoXAa7p9JRGMWRtF~kP9ykHzAwebkXZR0P7A7mqd-OU-sDJKC49~Ev0hX7Th98eAesUxms74EQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+        }
+    ],
+    "moreProducts": [
+        {
+            "id": 2,
+            "name": "MOHAN",
+            "attribute": "Recycle Boucle Knit Cardigan Pink",
+            "price": 120,
+            "imgUrl": "https://s3-alpha-sig.figma.com/img/6a2d/eb3f/5dc08c8f3f72604885ea722fb8d95299?Expires=1641168000&Signature=H59Ic~e~3jZ5MlgRbjW7FVqMnVACOUwuqLF9S7hz~Hr4EDNlI5peA5B10k2To0xOAldLUjddZ7Fhn8pPYFnd0VPZRWQgPpYciTCIz3UuecrdygjeUn-lHh-Hn75ESUEBOvJsJ9QH5EfzVlnKm4LOXXqTu0J6VVe7aoBJqpfgKoKkle5BPWMAj6~pbMBJNkAq2nJLIPQJ8ROiBs7~TZM2mpFcbvZL5Y46kjQvI7acWvW0XtdY5q7pAXO25qqWL2I7tY5jolGC~vnCUoXAa7p9JRGMWRtF~kP9ykHzAwebkXZR0P7A7mqd-OU-sDJKC49~Ev0hX7Th98eAesUxms74EQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+        },
+        {
+            "id": 3,
+            "name": "MOHAN",
+            "attribute": "Recycle Boucle Knit Cardigan Pink",
+            "price": 120,
+            "imgUrl": "https://s3-alpha-sig.figma.com/img/6a2d/eb3f/5dc08c8f3f72604885ea722fb8d95299?Expires=1641168000&Signature=H59Ic~e~3jZ5MlgRbjW7FVqMnVACOUwuqLF9S7hz~Hr4EDNlI5peA5B10k2To0xOAldLUjddZ7Fhn8pPYFnd0VPZRWQgPpYciTCIz3UuecrdygjeUn-lHh-Hn75ESUEBOvJsJ9QH5EfzVlnKm4LOXXqTu0J6VVe7aoBJqpfgKoKkle5BPWMAj6~pbMBJNkAq2nJLIPQJ8ROiBs7~TZM2mpFcbvZL5Y46kjQvI7acWvW0XtdY5q7pAXO25qqWL2I7tY5jolGC~vnCUoXAa7p9JRGMWRtF~kP9ykHzAwebkXZR0P7A7mqd-OU-sDJKC49~Ev0hX7Th98eAesUxms74EQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+        },
+        {
+            "id": 4,
+            "name": "MOHAN",
+            "attribute": "Recycle Boucle Knit Cardigan Pink",
+            "price": 120,
+            "imgUrl": "https://s3-alpha-sig.figma.com/img/6a2d/eb3f/5dc08c8f3f72604885ea722fb8d95299?Expires=1641168000&Signature=H59Ic~e~3jZ5MlgRbjW7FVqMnVACOUwuqLF9S7hz~Hr4EDNlI5peA5B10k2To0xOAldLUjddZ7Fhn8pPYFnd0VPZRWQgPpYciTCIz3UuecrdygjeUn-lHh-Hn75ESUEBOvJsJ9QH5EfzVlnKm4LOXXqTu0J6VVe7aoBJqpfgKoKkle5BPWMAj6~pbMBJNkAq2nJLIPQJ8ROiBs7~TZM2mpFcbvZL5Y46kjQvI7acWvW0XtdY5q7pAXO25qqWL2I7tY5jolGC~vnCUoXAa7p9JRGMWRtF~kP9ykHzAwebkXZR0P7A7mqd-OU-sDJKC49~Ev0hX7Th98eAesUxms74EQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+        },
+        {
+            "id": 5,
+            "name": "MOHAN",
+            "attribute": "Recycle Boucle Knit Cardigan Pink",
+            "price": 120,
+            "imgUrl": "https://s3-alpha-sig.figma.com/img/6a2d/eb3f/5dc08c8f3f72604885ea722fb8d95299?Expires=1641168000&Signature=H59Ic~e~3jZ5MlgRbjW7FVqMnVACOUwuqLF9S7hz~Hr4EDNlI5peA5B10k2To0xOAldLUjddZ7Fhn8pPYFnd0VPZRWQgPpYciTCIz3UuecrdygjeUn-lHh-Hn75ESUEBOvJsJ9QH5EfzVlnKm4LOXXqTu0J6VVe7aoBJqpfgKoKkle5BPWMAj6~pbMBJNkAq2nJLIPQJ8ROiBs7~TZM2mpFcbvZL5Y46kjQvI7acWvW0XtdY5q7pAXO25qqWL2I7tY5jolGC~vnCUoXAa7p9JRGMWRtF~kP9ykHzAwebkXZR0P7A7mqd-OU-sDJKC49~Ev0hX7Th98eAesUxms74EQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+        }
+    ]
+}

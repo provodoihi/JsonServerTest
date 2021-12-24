@@ -3,39 +3,39 @@
         {
             "id": 1,
             "name": "MOHAN",
-            "attribute": "Recycle Boucle Knit Cardigan Pink",
-            "price": 120,
-            "imgUrl": "https://s3-alpha-sig.figma.com/img/6a2d/eb3f/5dc08c8f3f72604885ea722fb8d95299?Expires=1641168000&Signature=H59Ic~e~3jZ5MlgRbjW7FVqMnVACOUwuqLF9S7hz~Hr4EDNlI5peA5B10k2To0xOAldLUjddZ7Fhn8pPYFnd0VPZRWQgPpYciTCIz3UuecrdygjeUn-lHh-Hn75ESUEBOvJsJ9QH5EfzVlnKm4LOXXqTu0J6VVe7aoBJqpfgKoKkle5BPWMAj6~pbMBJNkAq2nJLIPQJ8ROiBs7~TZM2mpFcbvZL5Y46kjQvI7acWvW0XtdY5q7pAXO25qqWL2I7tY5jolGC~vnCUoXAa7p9JRGMWRtF~kP9ykHzAwebkXZR0P7A7mqd-OU-sDJKC49~Ev0hX7Th98eAesUxms74EQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+            "attribute": "Recycle Boucle",
+            "price": "$120",
+            "imgUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/571eec8b-a04f-41f8-9f2d-b3ebbbe7b38e/ddafynj-64fa3fdd-9528-4115-a4dd-e1cb1ed453c1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU3MWVlYzhiLWEwNGYtNDFmOC05ZjJkLWIzZWJiYmU3YjM4ZVwvZGRhZnluai02NGZhM2ZkZC05NTI4LTQxMTUtYTRkZC1lMWNiMWVkNDUzYzEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.beD8qpdnHlNF6g6vP8rNJ0k8xS5b6LwTRuwo3yrBzak"
         }
     ],
     "moreProducts": [
         {
             "id": 2,
             "name": "MOHAN",
-            "attribute": "Recycle Boucle Knit Cardigan Pink",
-            "price": 120,
-            "imgUrl": "https://s3-alpha-sig.figma.com/img/6a2d/eb3f/5dc08c8f3f72604885ea722fb8d95299?Expires=1641168000&Signature=H59Ic~e~3jZ5MlgRbjW7FVqMnVACOUwuqLF9S7hz~Hr4EDNlI5peA5B10k2To0xOAldLUjddZ7Fhn8pPYFnd0VPZRWQgPpYciTCIz3UuecrdygjeUn-lHh-Hn75ESUEBOvJsJ9QH5EfzVlnKm4LOXXqTu0J6VVe7aoBJqpfgKoKkle5BPWMAj6~pbMBJNkAq2nJLIPQJ8ROiBs7~TZM2mpFcbvZL5Y46kjQvI7acWvW0XtdY5q7pAXO25qqWL2I7tY5jolGC~vnCUoXAa7p9JRGMWRtF~kP9ykHzAwebkXZR0P7A7mqd-OU-sDJKC49~Ev0hX7Th98eAesUxms74EQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+            "attribute": "Recycle Boucle",
+            "price": "$120",
+            "imgUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/571eec8b-a04f-41f8-9f2d-b3ebbbe7b38e/ddafynj-64fa3fdd-9528-4115-a4dd-e1cb1ed453c1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU3MWVlYzhiLWEwNGYtNDFmOC05ZjJkLWIzZWJiYmU3YjM4ZVwvZGRhZnluai02NGZhM2ZkZC05NTI4LTQxMTUtYTRkZC1lMWNiMWVkNDUzYzEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.beD8qpdnHlNF6g6vP8rNJ0k8xS5b6LwTRuwo3yrBzak"
         },
         {
             "id": 3,
             "name": "MOHAN",
-            "attribute": "Recycle Boucle Knit Cardigan Pink",
-            "price": 120,
-            "imgUrl": "https://s3-alpha-sig.figma.com/img/6a2d/eb3f/5dc08c8f3f72604885ea722fb8d95299?Expires=1641168000&Signature=H59Ic~e~3jZ5MlgRbjW7FVqMnVACOUwuqLF9S7hz~Hr4EDNlI5peA5B10k2To0xOAldLUjddZ7Fhn8pPYFnd0VPZRWQgPpYciTCIz3UuecrdygjeUn-lHh-Hn75ESUEBOvJsJ9QH5EfzVlnKm4LOXXqTu0J6VVe7aoBJqpfgKoKkle5BPWMAj6~pbMBJNkAq2nJLIPQJ8ROiBs7~TZM2mpFcbvZL5Y46kjQvI7acWvW0XtdY5q7pAXO25qqWL2I7tY5jolGC~vnCUoXAa7p9JRGMWRtF~kP9ykHzAwebkXZR0P7A7mqd-OU-sDJKC49~Ev0hX7Th98eAesUxms74EQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+            "attribute": "Recycle Boucle",
+            "price": "$120",
+            "imgUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/571eec8b-a04f-41f8-9f2d-b3ebbbe7b38e/ddafynj-64fa3fdd-9528-4115-a4dd-e1cb1ed453c1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU3MWVlYzhiLWEwNGYtNDFmOC05ZjJkLWIzZWJiYmU3YjM4ZVwvZGRhZnluai02NGZhM2ZkZC05NTI4LTQxMTUtYTRkZC1lMWNiMWVkNDUzYzEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.beD8qpdnHlNF6g6vP8rNJ0k8xS5b6LwTRuwo3yrBzak"
         },
         {
             "id": 4,
             "name": "MOHAN",
-            "attribute": "Recycle Boucle Knit Cardigan Pink",
-            "price": 120,
-            "imgUrl": "https://s3-alpha-sig.figma.com/img/6a2d/eb3f/5dc08c8f3f72604885ea722fb8d95299?Expires=1641168000&Signature=H59Ic~e~3jZ5MlgRbjW7FVqMnVACOUwuqLF9S7hz~Hr4EDNlI5peA5B10k2To0xOAldLUjddZ7Fhn8pPYFnd0VPZRWQgPpYciTCIz3UuecrdygjeUn-lHh-Hn75ESUEBOvJsJ9QH5EfzVlnKm4LOXXqTu0J6VVe7aoBJqpfgKoKkle5BPWMAj6~pbMBJNkAq2nJLIPQJ8ROiBs7~TZM2mpFcbvZL5Y46kjQvI7acWvW0XtdY5q7pAXO25qqWL2I7tY5jolGC~vnCUoXAa7p9JRGMWRtF~kP9ykHzAwebkXZR0P7A7mqd-OU-sDJKC49~Ev0hX7Th98eAesUxms74EQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+            "attribute": "Recycle Boucle",
+            "price": "$120",
+            "imgUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/571eec8b-a04f-41f8-9f2d-b3ebbbe7b38e/ddafynj-64fa3fdd-9528-4115-a4dd-e1cb1ed453c1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU3MWVlYzhiLWEwNGYtNDFmOC05ZjJkLWIzZWJiYmU3YjM4ZVwvZGRhZnluai02NGZhM2ZkZC05NTI4LTQxMTUtYTRkZC1lMWNiMWVkNDUzYzEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.beD8qpdnHlNF6g6vP8rNJ0k8xS5b6LwTRuwo3yrBzak"
         },
         {
             "id": 5,
             "name": "MOHAN",
-            "attribute": "Recycle Boucle Knit Cardigan Pink",
-            "price": 120,
-            "imgUrl": "https://s3-alpha-sig.figma.com/img/6a2d/eb3f/5dc08c8f3f72604885ea722fb8d95299?Expires=1641168000&Signature=H59Ic~e~3jZ5MlgRbjW7FVqMnVACOUwuqLF9S7hz~Hr4EDNlI5peA5B10k2To0xOAldLUjddZ7Fhn8pPYFnd0VPZRWQgPpYciTCIz3UuecrdygjeUn-lHh-Hn75ESUEBOvJsJ9QH5EfzVlnKm4LOXXqTu0J6VVe7aoBJqpfgKoKkle5BPWMAj6~pbMBJNkAq2nJLIPQJ8ROiBs7~TZM2mpFcbvZL5Y46kjQvI7acWvW0XtdY5q7pAXO25qqWL2I7tY5jolGC~vnCUoXAa7p9JRGMWRtF~kP9ykHzAwebkXZR0P7A7mqd-OU-sDJKC49~Ev0hX7Th98eAesUxms74EQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+            "attribute": "Recycle Boucle",
+            "price": "$120",
+            "imgUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/571eec8b-a04f-41f8-9f2d-b3ebbbe7b38e/ddafynj-64fa3fdd-9528-4115-a4dd-e1cb1ed453c1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU3MWVlYzhiLWEwNGYtNDFmOC05ZjJkLWIzZWJiYmU3YjM4ZVwvZGRhZnluai02NGZhM2ZkZC05NTI4LTQxMTUtYTRkZC1lMWNiMWVkNDUzYzEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.beD8qpdnHlNF6g6vP8rNJ0k8xS5b6LwTRuwo3yrBzak"
         }
     ]
 }

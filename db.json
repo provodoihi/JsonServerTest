@@ -1,41 +1,16 @@
 {
-    "selectedProduct": [
+    "videoList": [
         {
             "id": 1,
-            "name": "MOHAN",
-            "attribute": "Recycle Boucle",
-            "price": "$120",
-            "imgUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/571eec8b-a04f-41f8-9f2d-b3ebbbe7b38e/ddafynj-64fa3fdd-9528-4115-a4dd-e1cb1ed453c1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU3MWVlYzhiLWEwNGYtNDFmOC05ZjJkLWIzZWJiYmU3YjM4ZVwvZGRhZnluai02NGZhM2ZkZC05NTI4LTQxMTUtYTRkZC1lMWNiMWVkNDUzYzEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.beD8qpdnHlNF6g6vP8rNJ0k8xS5b6LwTRuwo3yrBzak"
-        }
-    ],
-    "moreProducts": [
+            "name": "How You Like That",
+            "thumbnailUrl": "https://i.ytimg.com/vi/ioNng23DkIM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnvs20jQWj1VeUiDa_HDmpI5Mzog",
+            "videoUrl": "https://youtu.be/ioNng23DkIM"
+        },
         {
             "id": 2,
-            "name": "MOHAN",
-            "attribute": "Recycle Boucle",
-            "price": "$120",
-            "imgUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/571eec8b-a04f-41f8-9f2d-b3ebbbe7b38e/ddafynj-64fa3fdd-9528-4115-a4dd-e1cb1ed453c1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU3MWVlYzhiLWEwNGYtNDFmOC05ZjJkLWIzZWJiYmU3YjM4ZVwvZGRhZnluai02NGZhM2ZkZC05NTI4LTQxMTUtYTRkZC1lMWNiMWVkNDUzYzEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.beD8qpdnHlNF6g6vP8rNJ0k8xS5b6LwTRuwo3yrBzak"
-        },
-        {
-            "id": 3,
-            "name": "MOHAN",
-            "attribute": "Recycle Boucle",
-            "price": "$120",
-            "imgUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/571eec8b-a04f-41f8-9f2d-b3ebbbe7b38e/ddafynj-64fa3fdd-9528-4115-a4dd-e1cb1ed453c1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU3MWVlYzhiLWEwNGYtNDFmOC05ZjJkLWIzZWJiYmU3YjM4ZVwvZGRhZnluai02NGZhM2ZkZC05NTI4LTQxMTUtYTRkZC1lMWNiMWVkNDUzYzEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.beD8qpdnHlNF6g6vP8rNJ0k8xS5b6LwTRuwo3yrBzak"
-        },
-        {
-            "id": 4,
-            "name": "MOHAN",
-            "attribute": "Recycle Boucle",
-            "price": "$120",
-            "imgUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/571eec8b-a04f-41f8-9f2d-b3ebbbe7b38e/ddafynj-64fa3fdd-9528-4115-a4dd-e1cb1ed453c1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU3MWVlYzhiLWEwNGYtNDFmOC05ZjJkLWIzZWJiYmU3YjM4ZVwvZGRhZnluai02NGZhM2ZkZC05NTI4LTQxMTUtYTRkZC1lMWNiMWVkNDUzYzEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.beD8qpdnHlNF6g6vP8rNJ0k8xS5b6LwTRuwo3yrBzak"
-        },
-        {
-            "id": 5,
-            "name": "MOHAN",
-            "attribute": "Recycle Boucle",
-            "price": "$120",
-            "imgUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/571eec8b-a04f-41f8-9f2d-b3ebbbe7b38e/ddafynj-64fa3fdd-9528-4115-a4dd-e1cb1ed453c1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU3MWVlYzhiLWEwNGYtNDFmOC05ZjJkLWIzZWJiYmU3YjM4ZVwvZGRhZnluai02NGZhM2ZkZC05NTI4LTQxMTUtYTRkZC1lMWNiMWVkNDUzYzEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.beD8qpdnHlNF6g6vP8rNJ0k8xS5b6LwTRuwo3yrBzak"
+            "name": "How You Like That",
+            "thumbnailUrl": "https://i.ytimg.com/vi/ioNng23DkIM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnvs20jQWj1VeUiDa_HDmpI5Mzog",
+            "videoUrl": "https://youtu.be/ioNng23DkIM"
         }
     ]
 }
